@@ -25,6 +25,8 @@ public class Main {
         prog.lern();
         prog.walk();
 
+        System.out.println(prog );
+
 
         Singer singer = new Singer();
 
@@ -34,7 +36,11 @@ public class Main {
         singer.singing();
         singer.eat();
         singer.playGitar();
-        
+
+        System.out.println(singer);
+
+
+
 
 
 
